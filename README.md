@@ -26,7 +26,7 @@ No tests are currently operational for this application.
 ## Links
 
 Link to the GitHub Repository: 
-https://github.com/mcmahonmike/digital-dewey
+
 
 
 Link to the Deployed Heroku:
